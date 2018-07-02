@@ -1,0 +1,14 @@
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\bin\Release\netcoreapp2.1\Lab17CreateAnApi.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\bin\Release\netcoreapp2.1\Lab17CreateAnApi.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\bin\Release\netcoreapp2.1\Lab17CreateAnApi.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\bin\Release\netcoreapp2.1\Lab17CreateAnApi.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\bin\Release\netcoreapp2.1\Lab17CreateAnApi.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.RazorAssemblyInfo.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.RazorAssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.RazorTargetAssemblyInfo.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.pdb

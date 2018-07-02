@@ -12,7 +12,7 @@ namespace Lab17CreateAnApi.Data
         public ToDoDBContext(DbContextOptions<ToDoDBContext> options) : base(options)
         { }
 
-        DbSet<ToDoItem> ToDoItems { get; set; }
-        DbSet<ToDoList> ToDoLists { get; set; }
+        public DbSet<ToDoItem> ToDoItems { get; set; }
+        public DbSet<ToDoList> ToDoLists { get; set; }
     }
 }
