@@ -12,3 +12,4 @@ C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\La
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.RazorTargetAssemblyInfo.cache
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.dll
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\Lab17CreateAnApi.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab-17-Create-An-Api\Lab17CreateAnApi\Lab17CreateAnApi\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
