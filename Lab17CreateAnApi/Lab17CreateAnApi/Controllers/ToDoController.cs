@@ -49,5 +49,37 @@ namespace Lab17CreateAnApi.Controllers
 
             return CreatedAtRoute("GetToDo", new { id = item.ID }, item);
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, ToDoItem item)
+        {
+            var td = _context.ToDoItems.Find(id);
+            if (td == null)
+            {
+                return NotFound();
+            }
+
+            td.Completed = item.Completed;
+            td.Name = item.Name;
+            td.ListID = td.ListID;
+
+            _context.ToDoItems.Update(td);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var td = _context.ToDoItems.Find(id);
+            if (td == null)
+            {
+                return NotFound();
+            }
+
+            _context.ToDoItems.Remove(td);
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
     }
 }
